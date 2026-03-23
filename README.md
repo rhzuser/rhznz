@@ -1,2 +1,0 @@
-# rhznz
-SCRIPT
